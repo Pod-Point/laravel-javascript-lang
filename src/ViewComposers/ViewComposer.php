@@ -38,7 +38,7 @@ class ViewComposer
      * @param  string $prefix
      * @return array
      */
-    private function transArray(array $array, $prefix)
+    private function transArray(array $array, string $prefix): array
     {
         $data = [];
 
