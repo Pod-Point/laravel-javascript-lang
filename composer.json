@@ -4,7 +4,7 @@
   "keywords": ["laravel", "javascript", "language", "translations", "routes"],
   "type": "library",
   "require": {
-    "php": "^7.1||^8.2",
+    "php": "^7.1||^8.1||^8.2",
     "ext-json": "*",
     "laravel/laravel": "^6.20||^7.30||^8.83||^9.52||^10.14"
   },
